@@ -10,7 +10,7 @@ class WegostudyAppPostiveTestCases(unittest.TestCase):
         methods.log_in()
         methods.create_new_student()
         # methods.create_new_application()
-        methods.view_details()
+        # methods.view_details()
         # methods.view_application_list()
         methods.sort_by_dropdown_menu()
         methods.commissions()
